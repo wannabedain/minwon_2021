@@ -2,7 +2,7 @@ library(rvest)
 library(dplyr)
 
 
-QUERY <- "특별교통수단" # 검색키워드
+QUERY <- "인천 흡연" # 검색키워드
 
 DATE <- format(DATE, "%Y.%m.%d")
 PAGE  <- 1
